@@ -42,5 +42,11 @@ public class Calendar {
         scheduleCanceled.publishAfterCommit();
     }
 
-    public void delaySchedule(DelayScheduleCommand delayScheduleCommand) {}
+    public void delaySchedule(DelayScheduleCommand delayScheduleCommand) {
+
+        // events.forEach(event -> {
+            
+        // });
+        
+    }
 }
